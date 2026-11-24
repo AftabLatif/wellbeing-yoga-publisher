@@ -1,0 +1,282 @@
+{
+  "backlink_tasks": [
+    {
+      "anchor_text": "7 Simple Desk Yoga Stretches for Neck and Shoulder Pain",
+      "kind": "insert",
+      "note": "Article #1 header: after Article #2 is published, add a link to it under Low Lunge or Quick Tips.",
+      "section": "Quick Tips",
+      "source": "gemini-01",
+      "status": "pending",
+      "target": "gemini-02"
+    }
+  ],
+  "blog_id": "7104958806422075310",
+  "blog_name": "Wellbeing Yoga",
+  "blog_url": "https://faceyoga28dayplan.blogspot.com",
+  "image_base_url": "https://raw.githubusercontent.com/AftabLatif/wellbeing-yoga-publisher/main/images",
+  "notes": [
+    "One article per run, in pending order. Never publish twice, never out of order.",
+    "image_base_url must match the real GitHub repo name (set the IMAGE_BASE_URL secret to override it).",
+    "Blogger cannot set a custom permalink or a search description via the API — the real URL returned by posts.insert is recorded here and is what all future links use.",
+    "Face-yoga entries use parser 'face-yoga', which is not built yet; publish.py refuses them until the parser exists."
+  ],
+  "pending": [
+    {
+      "file": "articles/gemini/02-desk-yoga-stretches-for-neck-and-shoulder-pain.html",
+      "id": "gemini-02",
+      "image_file": "02-desk-yoga-stretches.jpg",
+      "parser": "article",
+      "title": "7 Simple Desk Yoga Stretches for Neck and Shoulder Pain"
+    },
+    {
+      "file": "articles/gemini/03-bedtime-yoga-routine-for-deep-sleep.html",
+      "id": "gemini-03",
+      "image_file": "03-bedtime-yoga-routine.jpg",
+      "parser": "article",
+      "title": "Gentle Bedtime Yoga Routine for Deep Sleep and Relaxation"
+    },
+    {
+      "file": "articles/gemini/04-yoga-for-lower-back-pain-beginners.html",
+      "id": "gemini-04",
+      "image_file": "04-lower-back-pain.jpg",
+      "parser": "article",
+      "title": "Yoga for Lower Back Pain: 6 Safe Poses for Beginners"
+    },
+    {
+      "file": "articles/gemini/05-breathing-exercises-to-calm-anxiety.html",
+      "id": "gemini-05",
+      "image_file": "05-breathing-exercises.jpg",
+      "parser": "article",
+      "title": "5 Breathing Exercises (Pranayama) to Calm Anxiety in 5 Minutes"
+    },
+    {
+      "file": "articles/gemini/06-cat-cow-pose-benefits-how-to-do.html",
+      "id": "gemini-06",
+      "image_file": null,
+      "parser": "article",
+      "title": "Cat-Cow Pose (Marjaryasana-Bitilasana): Benefits and How to Do It Right"
+    },
+    {
+      "file": "articles/gemini/07-legs-up-the-wall-pose-benefits.html",
+      "id": "gemini-07",
+      "image_file": null,
+      "parser": "article",
+      "title": "Legs-Up-the-Wall Pose (Viparita Karani): Why You Should Do It Daily"
+    },
+    {
+      "file": "articles/gemini/08-beginners-guide-to-yoga-at-home.html",
+      "id": "gemini-08",
+      "image_file": null,
+      "parser": "article",
+      "title": "Beginner's Guide to Yoga at Home: What You Need to Start"
+    },
+    {
+      "file": "articles/gemini/09-yoga-stretches-to-fix-bad-posture.html",
+      "id": "gemini-09",
+      "image_file": null,
+      "parser": "article",
+      "title": "Yoga Stretches to Fix Bad Posture from Sitting All Day"
+    },
+    {
+      "file": "articles/gemini/10-childs-pose-balasana-benefits-how-to-do.html",
+      "id": "gemini-10",
+      "image_file": null,
+      "parser": "article",
+      "title": "Child's Pose (Balasana): Step-by-Step Guide and Health Benefits"
+    },
+    {
+      "file": "articles/claude/01-what-is-yoga-benefits-for-beginners.html",
+      "id": "claude-01",
+      "image_file": null,
+      "parser": "article",
+      "title": "What is Yoga — Benefits for Beginners"
+    },
+    {
+      "file": "articles/claude/02-yoga-for-weight-loss-does-it-really-work.html",
+      "id": "claude-02",
+      "image_file": null,
+      "parser": "article",
+      "title": "Yoga for Weight Loss — Does It Really Work?"
+    },
+    {
+      "file": "articles/claude/03-yoga-vs-gym-which-is-better.html",
+      "id": "claude-03",
+      "image_file": null,
+      "parser": "article",
+      "title": "Yoga vs Gym — Which is Better?"
+    },
+    {
+      "file": "articles/claude/04-best-time-to-do-yoga-morning-or-evening.html",
+      "id": "claude-04",
+      "image_file": null,
+      "parser": "article",
+      "title": "Best Time to Do Yoga — Morning or Evening?"
+    },
+    {
+      "file": "articles/claude/05-surya-namaskar-step-by-step-for-beginners.html",
+      "id": "claude-05",
+      "image_file": null,
+      "parser": "article",
+      "title": "Surya Namaskar Step by Step for Beginners"
+    },
+    {
+      "file": "articles/face-yoga/01-intro-28-day-face-yoga-plan.html",
+      "id": "face-yoga-01",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "28-Day Face Yoga Plan for Beginners — 20 Rituals, 9–12 Minutes a Day"
+    },
+    {
+      "file": "articles/face-yoga/02-ritual-01-morning-face-activation.html",
+      "id": "face-yoga-02",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Morning Face Activation Ritual — 28-Day Face Yoga Plan (Ritual 1 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/03-ritual-02-bright-eyed-morning.html",
+      "id": "face-yoga-03",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Bright-Eyed Morning Ritual — 28-Day Face Yoga Plan (Ritual 2 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/04-ritual-03-cheek-sculpt-smile.html",
+      "id": "face-yoga-04",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Cheek Sculpt & Smile Ritual — 28-Day Face Yoga Plan (Ritual 3 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/05-ritual-04-jaw-neck-sculpt.html",
+      "id": "face-yoga-05",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Jaw & Neck Sculpt Ritual — 28-Day Face Yoga Plan (Ritual 4 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/06-ritual-05-eye-refresh-brow-lift.html",
+      "id": "face-yoga-06",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Eye Refresh & Brow Lift Ritual — 28-Day Face Yoga Plan (Ritual 5 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/07-ritual-06-midday-lift-tap.html",
+      "id": "face-yoga-07",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Midday Lift & Tap Ritual — 28-Day Face Yoga Plan (Ritual 6 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/08-ritual-07-nasolabial-softening.html",
+      "id": "face-yoga-08",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Nasolabial Softening Ritual — 28-Day Face Yoga Plan (Ritual 7 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/09-ritual-08-double-chin-neck-lift.html",
+      "id": "face-yoga-09",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Double-Chin & Neck Lift Ritual — 28-Day Face Yoga Plan (Ritual 8 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/10-ritual-09-temple-brow-softening.html",
+      "id": "face-yoga-10",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Temple & Brow Softening Ritual — 28-Day Face Yoga Plan (Ritual 9 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/11-ritual-10-full-cheek-definition.html",
+      "id": "face-yoga-11",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Full Cheek Definition Ritual — 28-Day Face Yoga Plan (Ritual 10 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/12-ritual-11-full-face-sculpt-release.html",
+      "id": "face-yoga-12",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Full Face Sculpt & Release Ritual — 28-Day Face Yoga Plan (Ritual 11 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/13-ritual-12-lymphatic-neck-drainage.html",
+      "id": "face-yoga-13",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Lymphatic Neck Drainage Ritual — 28-Day Face Yoga Plan (Ritual 12 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/14-ritual-13-quiet-eyes-forehead.html",
+      "id": "face-yoga-14",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Quiet Eyes & Forehead Ritual — 28-Day Face Yoga Plan (Ritual 13 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/15-ritual-14-jawbone-cheek-glide.html",
+      "id": "face-yoga-15",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Jawbone & Cheek Glide Ritual — 28-Day Face Yoga Plan (Ritual 14 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/16-ritual-15-tongue-jaw-tension-release.html",
+      "id": "face-yoga-16",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Tongue & Jaw Tension Release Ritual — 28-Day Face Yoga Plan (Ritual 15 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/17-ritual-16-evening-full-face-calm.html",
+      "id": "face-yoga-17",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Evening Full-Face Calm Ritual — 28-Day Face Yoga Plan (Ritual 16 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/18-ritual-17-smile-symmetry.html",
+      "id": "face-yoga-18",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Smile Symmetry Ritual — 28-Day Face Yoga Plan (Ritual 17 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/19-ritual-18-jawline-contour-collarbone.html",
+      "id": "face-yoga-19",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Jawline Contour & Collarbone Ritual — 28-Day Face Yoga Plan (Ritual 18 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/20-ritual-19-evening-cheek-lip-calm.html",
+      "id": "face-yoga-20",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Evening Cheek & Lip Calm Ritual — 28-Day Face Yoga Plan (Ritual 19 of 20)"
+    },
+    {
+      "file": "articles/face-yoga/21-ritual-20-evening-jaw-neck-wind-down.html",
+      "id": "face-yoga-21",
+      "image_file": null,
+      "parser": "face-yoga",
+      "title": "Evening Jaw & Neck Wind-Down Ritual — 28-Day Face Yoga Plan (Ritual 20 of 20)"
+    }
+  ],
+  "published": [
+    {
+      "file": "articles/gemini/01-10-minute-morning-yoga-routine.html",
+      "id": "gemini-01",
+      "image_file": "01-morning-yoga-routine.jpg",
+      "parser": "article",
+      "post_id": null,
+      "published_date": "2026-11-24",
+      "title": "10-Minute Morning Yoga Routine to Wake Up Your Body (Beginner-Friendly)",
+      "url": "https://faceyoga28dayplan.blogspot.com/2026/11/10-minute-morning-yoga-routine.html"
+    }
+  ]
+}
