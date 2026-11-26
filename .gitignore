@@ -1,0 +1,29 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.keystore
+*.jks
+*.p8
+.email-cron-secret
+.vidpulse-access-code
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Godot
+.godot/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
